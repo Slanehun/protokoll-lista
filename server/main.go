@@ -2,12 +2,13 @@ package main
 
 import (
 	"fmt"
-	"github.com/gin-gonic/gin"
 	"log"
 
 	"github.com/Slanehun/protokoll-lista/database"
 	"github.com/Slanehun/protokoll-lista/rest"
 
+	"github.com/gin-contrib/cors"
+	"github.com/gin-gonic/gin"
 	_ "github.com/go-sql-driver/mysql"
 )
 
@@ -28,6 +29,7 @@ func main() {
 
 	// Register rest endpoints
 	r := gin.Default()
+	r.Use(cors.Default())
 	rest.RegisterEndpoints(r, db)
 
 	// Run the app

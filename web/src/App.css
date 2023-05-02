@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+.basic-table {
+  padding: 5rem;
+}
+
+.css-6h1dhi-MuiDataGrid-root .MuiDataGrid-row.Mui-selected {
+  background-color: #61dafb!important;
+}
