@@ -20,6 +20,7 @@ services:
       - "3307:3306"
   app:
     build: ./server
+    command: ["wait-for-it.sh", "--timeout=30", "db:3306", "--", "go", "run", "main.go"]
     depends_on:
       - db
     ports:

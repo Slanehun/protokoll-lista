@@ -2,10 +2,9 @@ package main
 
 import (
 	"fmt"
-	"log"
-
 	"github.com/Slanehun/protokoll-lista/database"
 	"github.com/Slanehun/protokoll-lista/rest"
+	"log"
 
 	"github.com/gin-contrib/cors"
 	"github.com/gin-gonic/gin"
