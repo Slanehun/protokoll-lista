@@ -1,0 +1,32 @@
+ID,Government,Event,Name,Position,Address,Email,Phone,Comment
+1,Belügyminisztérium,ORFK közlekedésbiztonsági tájékoztatója,Dr. Pintér Sándor,belügyminiszter ,1029. Budapest Szilágyi tér 1. ,drps@email.com,222-5010,
+2,Belügyminisztérium,ORFK közlekedésbiztonsági tájékoztatója,Dr. Balogh János,államtitkár,1065. Budapest Fiskális út 82. ,drbj@email.com,222-5011,
+3,Belügyminisztérium,ORFK közlekedésbiztonsági tájékoztatója,Garamvölgyi László,rendészeti államtitkár,1072. Budapest Váci utca 9.,gl@email.com,222-5012,
+4,Belügyminisztérium,ORFK közlekedésbiztonsági tájékoztatója,Kovács Zoltán,közbiztonságért felel?s helyettes államtitkár,1051. Budapest Rákóczi út 2.,kcs@email.com,222-5013,
+5,Belügyminisztérium,ORFK közlekedésbiztonsági tájékoztatója,Kiss Ádám,katasztrófavédelmi helyettes államtitkár,1142. Budapest Közraktár utca 4-6.,ka@email.com,222-5014,vegán
+6,Belügyminisztérium,ORFK közlekedésbiztonsági tájékoztatója,Völner Pál,önkormányzati helyettes államtitkár,1161. Budapest Visegrádi utca 11.,vp@email.com,222-5015,
+7,Igazságügyi Minisztérium,Válaszút el?tt a jogalkotás,Dr. Varga Judit,igazságügyi miniszter,1046. Budapest Thököly út 55.,drvj@email.com,223-5010,vegán
+8,Igazságügyi Minisztérium,Válaszút el?tt a jogalkotás,Dr. Bánáti János,államtitkár,1089. Budapest Örs vezér tere 24.,drbj@email.com,223-5011,
+9,Igazságügyi Minisztérium,Válaszút el?tt a jogalkotás,Dr. Fülöp Attila,helyettes államtitkár,1122. Budapest Üll?i út 347.,drfa@email.com,223-5012,
+10,Igazságügyi Minisztérium,Válaszút el?tt a jogalkotás,Dr. Pokorni Szabolcs,helyettes államtitkár ,1151. Budapest Maglódi út 8.,drpsz@email.com,223-5013,
+11,Magyar Köztársasági Elnöki Hivatal,Lengyel delegáció fogadása,Áder János,köztársasági elnök,1014. Budapest Szt. György tér 1-2. ,aj@email.com,224-5010,
+12,Magyar Köztársasági Elnöki Hivatal,Lengyel delegáció fogadása,Dr. Handó Tünde,elnöki f?tanácsadó,1111. Budapest Nagytétényi út 23.,drht@email.com,224-5011,vegán
+13,Magyar Köztársasági Elnöki Hivatal,Lengyel delegáció fogadása,Szemerey Tamás,elnöki tanácsadó,1038. Budapest Gombocz Zoltán utca 7.,szt@email.com,224-5012,
+14,Magyar Köztársasági Elnöki Hivatal,Lengyel delegáció fogadása,Dr. Rétvári Bence,elnöki tanácsadó,1125. Budapest Szépvölgyi út 120.,drrb@email.com,224-5013,
+15,Magyar Köztársasági Elnöki Hivatal,Lengyel delegáció fogadása,Dr. Szilágyi Péter,elnöki f?tanácsadó,1237. Budapest Montevideo utca 7.,drszp@email.com,224-5014,gluténérzékeny
+16,Magyar Köztársasági Elnöki Hivatal,Lengyel delegáció fogadása,Dr. Latorcai János,elnöki f?tanácsadó,1043. Budapest István út 3.,drlj@email.com,224-5015,
+17,Honvédelmi Minisztérium,NATO konferencia,Benk? Tibor,honvédelmi miniszter,1102. Budapest Dalszínház utca 1.,bt@email.com,225-5010,
+18,Honvédelmi Minisztérium,NATO konferencia,Dr. Korom Ferenc,államtitkár ,1088. Budapest Orczy út 46.,drkf@email.com,225-5011,
+19,Honvédelmi Minisztérium,NATO konferencia,Dr. Simicskó István,államtitkár ,1117. Budapest Ménesi út 11.,drsi@email.com,225-5012,
+20,Honvédelmi Minisztérium,NATO konferencia,Dr. Tompos Péter,helyettes államtitkár,1055. Budapest Szlovák út 38.,drtp@email.com,225-5013,laktózintolerancia
+21,Honvédelmi Minisztérium,NATO konferencia,Dr. Novák Dávid ,helyettes államtitkár,1077. Budapest Báthory utca 14.,drnd@email.com,225-5014,
+22,Belügyminisztérium,Magyarországért Nagydíj,Dr. Pintér Sándor,belügyminiszter ,1029. Budapest Szilágyi tér 1. ,drps@email.com,222-5010,
+23,Igazságügyi Minisztérium,Magyarországért Nagydíj,Dr. Varga Judit,igazságügyi miniszter,1046. Budapest Thököly út 55.,drvj@email.com,223-5010,vegán
+24,Honvédelmi Minisztérium,Magyarországért Nagydíj,Benk? Tibor,honvédelmi miniszter,1102. Budapest Dalszínház utca 1.,bt@email.com,225-5010,
+25,Honvédelmi Minisztérium,Államtitkári értekezlet,Dr. Korom Ferenc,államtitkár ,1088. Budapest Orczy út 46.,drkf@email.com,225-5011,
+26,Honvédelmi Minisztérium,Államtitkári értekezlet,Dr. Simicskó István,államtitkár ,1117. Budapest Ménesi út 11.,drsi@email.com,225-5012,
+27,Igazságügyi Minisztérium,Államtitkári értekezlet,Dr. Bánáti János,államtitkár,1089. Budapest Örs vezér tere 24.,drbja@email.com,223-5011,
+28,Belügyminisztérium,Államtitkári értekezlet,Dr. Balogh János,államtitkár,1065. Budapest Fiskális út 82. ,drbj@email.com,222-5011,
+29,Belügyminisztérium,Miniszteri értekezlet,Dr. Pintér Sándor,belügyminiszter ,1029. Budapest Szilágyi tér 1. ,drps@email.com,222-5010,
+30,Igazságügyi Minisztérium,Miniszteri értekezlet,Dr. Varga Judit,igazságügyi miniszter,1046. Budapest Thököly út 55.,drvj@email.com,223-5010,vegán
+31,Honvédelmi Minisztérium,Miniszteri értekezlet,Benk? Tibor,honvédelmi miniszter,1102. Budapest Dalszínház utca 1.,bt@email.com,225-5010,

@@ -1,0 +1,39 @@
+version: '3'
+services:
+  db:
+    image: mysql:latest
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: password
+      MYSQL_DATABASE: protokoll
+      MYSQL_LOCAL_INFILE: "true"
+      MYSQL_INITDB_SKIP_TZINFO: 'yes'
+      MYSQL_INITDB_WIPE_DATA: 'yes'
+      MYSQL_LOG_CONSOLE: 'yes'
+      MYSQL_DATABASE_LOAD_SQL: "/docker-entrypoint-initdb.d/init.sql"
+      MYSQL_SECURE_FILE_PRIV: ""
+      MYSQL_CHARACTER_SET_SERVER: utf8
+    volumes:
+      - ./init.sql:/docker-entrypoint-initdb.d/init.sql
+      - ./data.csv:/var/lib/mysql-files/data.csv
+    ports:
+      - "3307:3306"
+  app:
+    build: ./server
+    depends_on:
+      - db
+    ports:
+      - "8080:8080"
+    environment:
+      DB_HOST: db
+      DB_PORT: 3306
+      DB_USER: root
+      DB_PASSWORD: password
+      DB_NAME: protokoll
+  web:
+    build: ./web
+    depends_on:
+      - db
+      - app
+    ports:
+      - "3000:3000"
